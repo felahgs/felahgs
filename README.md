@@ -2,7 +2,7 @@
 I'm a FrontEnd developer who loves ReactJS<br>Currently studying some mobile development with react native and starting to dive deeper in the cloud world!
 
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:fgsouza93@gmail.com?subject=[GitHub]%Contact) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-souza-aa9aa773) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/felahgs) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10787032) 
 
 # 🧑🏽‍💻 My Main Stack:
