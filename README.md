@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a FrontEnd developer who loves ReactJS<br>Currently studying some mobile development with react native and starting to dive deeper in the cloud world!
+<p>I'm a FrontEnd developer who loves ReactJS<br>Currently studying some mobile development with react native and starting to dive deeper in the cloud world!</p>
 
 
 ## 🌐 Contact:
