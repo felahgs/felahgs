@@ -1,5 +1,5 @@
 # 💫 Yo! I'm Felipe Souza:
-<p>I'm a FrontEnd developer who loves ReactJS<br>Currently studying some mobile development with react native and starting to dive deeper into the cloud world!</p>
+<p>I'm a FrontEnd developer specialized in ReactJS<br>Currently studying some mobile development with react native and starting to dive deeper into the cloud world!</p>
 
 
 ## 🌐 Contact:
