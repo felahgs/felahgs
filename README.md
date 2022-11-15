@@ -1,7 +1,7 @@
 # 💫 Yo! I'm Felipe Souza:
-<p>I'm a FrontEnd developer specialized in ReactJS<br>Currently studying some mobile development with react native and starting to dive deeper into the cloud world!</p>
+<p>I'm a FrontEnd developer specialized in ReactJS<br>Currently studying some mobile development with react native!</p>
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=felahgs&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false">
@@ -9,7 +9,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felahgs&theme=nightowl&hide_border=false">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felahgs&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</div>
+</div> -->
 
 
 ## 🌐 Contact:
