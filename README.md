@@ -1,4 +1,4 @@
-# 💫 Yo! I'm Felipe Souza:
+# 💫 Heya! I'm Felipe Souza:
 <p>I'm a Front-end developer specialized in ReactJS<br>Currently studying some mobile development with react native!</p>
 
 ## 🌐 Contact:
