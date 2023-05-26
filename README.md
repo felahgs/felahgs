@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats:
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=felahgs&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=felahgs&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false"> -->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felahgs&theme=nightowl&hide_border=false">
   <br/>
